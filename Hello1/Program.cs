@@ -12,6 +12,7 @@ namespace Hello1
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello looking for change");
+            Console.WriteLine("Change console message");
             Console.Read();
         }
     }
